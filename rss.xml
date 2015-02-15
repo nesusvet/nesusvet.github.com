@@ -4,12 +4,19 @@
     <title>Schrödinger’s Mekshun</title>
     <link>https://github.com/nesusvet</link>
     <description>This message has been removed</description>
-    <pubDate>Вс, 15 фев 2015 20:17:22 MSK</pubDate>
-    <lastBuildDate>Вс, 15 фев 2015 20:17:22 MSK</lastBuildDate>
+    <pubDate>Вс, 15 фев 2015 21:14:38 MSK</pubDate>
+    <lastBuildDate>Вс, 15 фев 2015 21:14:38 MSK</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
     <item>
-      <title>Первое сообщение</title>
+      <title>Новая дебетовая карта</title>
+      <link>https://github.com/nesusvet/blog/2014/09/26/novaya-debetovaya-karta</link>
+      <description>No Description</description>
+      <pubDate>2015-02-15</pubDate>
+      <guid>https://github.com/nesusvet/blog/2014/09/26/novaya-debetovaya-karta</guid>
+    </item>
+    <item>
+      <title>Первое сообщение через org-page</title>
       <link>https://github.com/nesusvet/blog/2015/02/15/pervyy-post</link>
       <description>No Description</description>
       <pubDate>2015-02-15</pubDate>
