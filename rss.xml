@@ -4,10 +4,17 @@
     <title>Schrödinger’s Mekshun</title>
     <link>https://github.com/nesusvet</link>
     <description>This message has been removed</description>
-    <pubDate>Ср, 04 мар 2015 16:12:56 MSK</pubDate>
-    <lastBuildDate>Ср, 04 мар 2015 16:12:56 MSK</lastBuildDate>
+    <pubDate>Чт, 05 мар 2015 19:10:28 MSK</pubDate>
+    <lastBuildDate>Чт, 05 мар 2015 19:10:28 MSK</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Поездка в Питер</title>
+      <link>https://github.com/nesusvet/blog/2014/10/01/poezdka-v-piter</link>
+      <description>Моя первая поездка Санкт-Петербург</description>
+      <pubDate>2015-03-05</pubDate>
+      <guid>https://github.com/nesusvet/blog/2014/10/01/poezdka-v-piter</guid>
+    </item>
     <item>
       <title>Фильмы в 2015 году</title>
       <link>https://github.com/nesusvet/blog/2015/03/04/filmy-kotoryy-ya-posmotrel-v-2015-godu</link>
@@ -35,13 +42,6 @@
       <description>No Description</description>
       <pubDate>2015-02-15</pubDate>
       <guid>https://github.com/nesusvet/blog/2015/02/15/pervyy-post</guid>
-    </item>
-    <item>
-      <title>Поездка в Питер</title>
-      <link>https://github.com/nesusvet/blog/2014/10/01/poezdka-v-piter</link>
-      <description>Моя первая поездка Санкт-Петербург</description>
-      <pubDate>2015-02-15</pubDate>
-      <guid>https://github.com/nesusvet/blog/2014/10/01/poezdka-v-piter</guid>
     </item>
   </channel>
 </rss>
