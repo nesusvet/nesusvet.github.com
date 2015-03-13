@@ -2,32 +2,32 @@
 <rss version="2.0">
   <channel>
     <title>Schrödinger’s Mekshun</title>
-    <link>https://github.com/nesusvet</link>
-    <description>This message has been removed</description>
-    <pubDate>Чт, 05 мар 2015 19:10:28 MSK</pubDate>
-    <lastBuildDate>Чт, 05 мар 2015 19:10:28 MSK</lastBuildDate>
+    <link>https://github.com/nesusvet/</link>
+    <description></description>
+    <pubDate>Пт, 13 мар 2015 16:21:32 MSK</pubDate>
+    <lastBuildDate>Пт, 13 мар 2015 16:21:32 MSK</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Фильмы в 2014 году</title>
+      <link>https://github.com/nesusvet/blog/2014/12/31/filmy-kotoryy-ya-posmotrel-v-2014-godu</link>
+      <description>Фильмы, которые я посмотрел в 2014 году</description>
+      <pubDate>2015-03-13</pubDate>
+      <guid>https://github.com/nesusvet/blog/2014/12/31/filmy-kotoryy-ya-posmotrel-v-2014-godu</guid>
+    </item>
+    <item>
+      <title>Фильмы в 2015 году</title>
+      <link>https://github.com/nesusvet/blog/2015/03/13/filmy-kotoryy-ya-posmotrel-v-2015-godu</link>
+      <description>Фильмы, которые я посмотрел в 2015 году</description>
+      <pubDate>2015-03-13</pubDate>
+      <guid>https://github.com/nesusvet/blog/2015/03/13/filmy-kotoryy-ya-posmotrel-v-2015-godu</guid>
+    </item>
     <item>
       <title>Поездка в Питер</title>
       <link>https://github.com/nesusvet/blog/2014/10/01/poezdka-v-piter</link>
       <description>Моя первая поездка Санкт-Петербург</description>
       <pubDate>2015-03-05</pubDate>
       <guid>https://github.com/nesusvet/blog/2014/10/01/poezdka-v-piter</guid>
-    </item>
-    <item>
-      <title>Фильмы в 2015 году</title>
-      <link>https://github.com/nesusvet/blog/2015/03/04/filmy-kotoryy-ya-posmotrel-v-2015-godu</link>
-      <description>Фильмы, которые я посмотрел в 2014 году</description>
-      <pubDate>2015-03-04</pubDate>
-      <guid>https://github.com/nesusvet/blog/2015/03/04/filmy-kotoryy-ya-posmotrel-v-2015-godu</guid>
-    </item>
-    <item>
-      <title>Фильмы в 2014 году</title>
-      <link>https://github.com/nesusvet/blog/2014/12/31/filmy-kotoryy-ya-posmotrel-v-2014-godu</link>
-      <description>Фильмы, которые я посмотрел в 2014 году</description>
-      <pubDate>2015-02-27</pubDate>
-      <guid>https://github.com/nesusvet/blog/2014/12/31/filmy-kotoryy-ya-posmotrel-v-2014-godu</guid>
     </item>
     <item>
       <title>Новая дебетовая карта</title>
