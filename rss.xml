@@ -4,23 +4,30 @@
     <title>Schrödinger’s Mekshun</title>
     <link>http://www.denismekshun.com/</link>
     <description></description>
-    <pubDate>Пт, 13 мар 2015 17:02:55 MSK</pubDate>
-    <lastBuildDate>Пт, 13 мар 2015 17:02:55 MSK</lastBuildDate>
+    <pubDate>Пн, 23 мар 2015 11:13:50 MSK</pubDate>
+    <lastBuildDate>Пн, 23 мар 2015 11:13:50 MSK</lastBuildDate>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>Org-page static site generator (https://github.com/kelvinh/org-page)</generator>
+    <item>
+      <title>Недельный обзор 2015-W12</title>
+      <link>http://www.denismekshun.com/blog/2015/03/22/nedelnyy-obzor-2015-w12</link>
+      <description>Недельный обзор 2015-W12</description>
+      <pubDate>2015-03-23</pubDate>
+      <guid>http://www.denismekshun.com/blog/2015/03/22/nedelnyy-obzor-2015-w12</guid>
+    </item>
+    <item>
+      <title>Фильмы в 2015 году</title>
+      <link>http://www.denismekshun.com/blog/2015/03/13/filmy-kotoryy-ya-posmotrel-v-2015-godu</link>
+      <description>Фильмы, которые я посмотрел в 2015 году</description>
+      <pubDate>2015-03-22</pubDate>
+      <guid>http://www.denismekshun.com/blog/2015/03/13/filmy-kotoryy-ya-posmotrel-v-2015-godu</guid>
+    </item>
     <item>
       <title>Фильмы в 2014 году</title>
       <link>http://www.denismekshun.com/blog/2014/12/31/filmy-kotoryy-ya-posmotrel-v-2014-godu</link>
       <description>Фильмы, которые я посмотрел в 2014 году</description>
       <pubDate>2015-03-13</pubDate>
       <guid>http://www.denismekshun.com/blog/2014/12/31/filmy-kotoryy-ya-posmotrel-v-2014-godu</guid>
-    </item>
-    <item>
-      <title>Фильмы в 2015 году</title>
-      <link>http://www.denismekshun.com/blog/2015/03/13/filmy-kotoryy-ya-posmotrel-v-2015-godu</link>
-      <description>Фильмы, которые я посмотрел в 2015 году</description>
-      <pubDate>2015-03-13</pubDate>
-      <guid>http://www.denismekshun.com/blog/2015/03/13/filmy-kotoryy-ya-posmotrel-v-2015-godu</guid>
     </item>
     <item>
       <title>Поездка в Питер</title>
