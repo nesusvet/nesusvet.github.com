@@ -166,7 +166,7 @@ table th.right, table td.right {
 }
 /******************************************************/
 /* body */
-.container {
+.container div:not(.nofacebook) {
     margin: 0 auto;
     max-width: 770px;
 }
@@ -299,6 +299,16 @@ table th.right, table td.right {
 }
 .footpara {
     display: inline;
+}
+
+.nofacebook{
+    position: absolute;
+    z-index: -1;
+    top: 70px;
+    left:0;  
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Safari */
+    transform: rotate(-45deg);
 }
 
 /* Responsive
