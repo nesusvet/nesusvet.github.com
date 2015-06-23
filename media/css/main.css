@@ -309,7 +309,6 @@ table th.right, table td.right {
     -ms-transform: rotate(-45deg); /* IE 9 */
     -webkit-transform: rotate(-45deg); /* Safari */
     transform: rotate(-45deg);
-    
 }
 
 /* Responsive
