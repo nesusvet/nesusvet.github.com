@@ -60,10 +60,7 @@ h1:before, h2:before, h3:before {
     color: #ccc;
     display: none;
 }
-h1:before {
-    content: "*";
-    left: -1.25em;
-}
+
 h2:before {
     content: "**";
     left: -2em;
@@ -169,17 +166,18 @@ table th.right, table td.right {
 }
 /******************************************************/
 /* body */
-.container {
+.container div:not(.nofacebook) {
     margin: 0 auto;
     max-width: 770px;
 }
 /* head */
 .masthead {
     color: #888;
+    text-align: center;
 }
 .masthead:after {
     display: block;
-    content: '----------------------------------------------------------------';
+    
     margin: 10px 0;
     color: #ccc;
 }
@@ -241,7 +239,7 @@ table th.right, table td.right {
 }
 .post:after {
     display: block;
-    content: "----------------------------------------------------------------";
+
     color: #ccc;
 }
 .post img {
@@ -301,6 +299,17 @@ table th.right, table td.right {
 }
 .footpara {
     display: inline;
+}
+
+.nofacebook{
+    position: absolute;
+    z-index: -1;
+    top: 70px;
+    left:0;  
+    -ms-transform: rotate(-45deg); /* IE 9 */
+    -webkit-transform: rotate(-45deg); /* Safari */
+    transform: rotate(-45deg);
+    
 }
 
 /* Responsive
