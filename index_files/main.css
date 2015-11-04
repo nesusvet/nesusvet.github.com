@@ -166,7 +166,7 @@ table th.right, table td.right {
 }
 /******************************************************/
 /* body */
-.container div:not(.nofacebook) {
+.container div:not(.nofacebook):not(.msfree) {
     margin: 0 auto;
     max-width: 770px;
 }
@@ -310,6 +310,17 @@ table th.right, table td.right {
     -webkit-transform: rotate(-45deg); /* Safari */
     transform: rotate(-45deg);
 }
+
+.msfree{
+    position: absolute;
+    z-index: -1;
+    top: 20px;
+    left: 5px;  
+    -ms-transform: rotate(10deg); /* IE 9 */
+    -webkit-transform: rotate(10deg); /* Safari */
+    transform: rotate(10deg);
+}
+
 
 /* Responsive
    -------------------------------------------------- */
